@@ -1,0 +1,33 @@
+#main-navbar {
+  position: relative;
+  float: left;
+  background-color: LightGreen;
+  width: 100%;
+}
+
+#navbar-container {
+  position: relative;
+  left: 50%;
+  float: left;
+}
+
+#main-navbar ul {
+  position: relative;
+  right: 50%;
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+#main-navbar ul li a {
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  color: #fff;
+}
+
+#main-navbar ul li a:hover {
+  background-color: white;
+  color: blue;
+}
