@@ -23,7 +23,7 @@
 #main-navbar ul li a {
   text-decoration: none;
   text-align: center;
-  display: inline;
+  display: inline-block;
   padding: 10px 20px;
   color: #fff;
 }
