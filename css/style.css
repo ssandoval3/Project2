@@ -3,6 +3,7 @@
   float: left;
   background-color: LightGreen;
   width: 100%;
+  text-align: center;
 }
 
 #navbar-container {
@@ -22,7 +23,7 @@
 
 #main-navbar ul li a {
   text-decoration: none;
-  text-align: right;
+  text-align: center;
   display: block;
   padding: 10px 20px;
   color: #fff;
