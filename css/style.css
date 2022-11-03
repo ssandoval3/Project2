@@ -5,15 +5,8 @@
   width: 100%;
 }
 
-#navbar-container {
-  position: relative;
-  left: 50%;
-  float: left;
-}
-
 #main-navbar ul {
   position: relative;
-  right: 50%;
   list-style-type: none;
   overflow: hidden;
   display: inline-block;
@@ -21,9 +14,12 @@
   padding: 0;
 }
 
+#navbar-container ul li{
+  float: left;
+}
+
 #main-navbar ul li a {
   text-decoration: none;
-  text-align: center;
   display: block;
   padding: 10px 20px;
   color: #fff;
