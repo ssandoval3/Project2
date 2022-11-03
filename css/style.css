@@ -16,6 +16,7 @@
   right: 50%;
   list-style-type: none;
   overflow: hidden;
+  display: inline-block;
   margin: 0;
   padding: 0;
 }
@@ -23,7 +24,7 @@
 #main-navbar ul li a {
   text-decoration: none;
   text-align: center;
-  display: inline-block;
+  display: block;
   padding: 10px 20px;
   color: #fff;
 }
