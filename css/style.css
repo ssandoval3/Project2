@@ -1,6 +1,5 @@
 #main-navbar {
-  position: relative;
-  float: left;
+  text-align: center;
   background-color: LightGreen;
   width: 100%;
 }
