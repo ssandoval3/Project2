@@ -34,3 +34,12 @@ body {
   background-color: FloralWhite;
   font-family: Lato, Helvetica, sans-serif;
 }
+
+#compsci{
+	width: 850px;
+	height: 250px;
+	font-size: 14px;
+	margin: auto;
+	padding: 30px 80px;
+	border: 3px ridge MediumSeaGreen;
+}
