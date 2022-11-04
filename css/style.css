@@ -90,3 +90,13 @@ p{
   border: 3px ridge MediumSeaGreen;
   text-align: center;
 }
+
+#volleyball{
+   width: 850px;
+  height: 1400px;
+  font-size: 14px;
+  margin: auto;
+  padding: 30px 80px;
+  border: 3px ridge MediumSeaGreen;
+  text-align: center;
+}
