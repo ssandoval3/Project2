@@ -80,3 +80,13 @@ h4{
 p{
   text-align: center;
 }
+
+#bike{
+  width: 850px;
+  height: 1100px;
+  font-size: 14px;
+  margin: auto;
+  padding: 30px 80px;
+  border: 3px ridge MediumSeaGreen;
+  text-align: center;
+}
