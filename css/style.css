@@ -84,6 +84,11 @@ p{
   text-align: center;
 }
 
+ul{
+	display: inline-block;
+	text-align: left;
+}
+
 section {
   border: 1px solid blue;
   margin: 10px;
