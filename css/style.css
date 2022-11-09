@@ -90,7 +90,7 @@ ul{
 }
 
 section {
-  border: 2px solid MediumSeaGreen;
+  border: 2px dashed BurlyWood;
   margin: 10px;
   padding-left: 10px;
 }
