@@ -87,10 +87,11 @@ p{
 ul{
 	display: inline-block;
 	text-align: left;
+    background-color: Light French Beige;
 }
 
 section {
-  border: 1px solid blue;
+  border: 1px MediumSeaGreen;
   margin: 10px;
   background-color: Light French Beige;
   padding-left: 10px;
